@@ -11,3 +11,8 @@
 
 
 #### Proyecto con fines educativos
+
+#### Integrantes
+1. Henry Guarnizo
+2. Daniel Mogrovejo
+3. Santiago Mendieta
